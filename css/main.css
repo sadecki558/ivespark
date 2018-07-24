@@ -830,6 +830,7 @@ header .logo a {
 	background-position: 0 0;
 	background-image: url("../images/logo.jpg");
 }
+/*
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
 	header .logo a {
 		background-image: url("../images/logo-@2x.png");
@@ -838,6 +839,7 @@ header .logo a {
 		background-size: 126px 12px;
 	}
 }
+*/
 .opaque {
 	background: #12151b;
 }
