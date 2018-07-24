@@ -828,7 +828,7 @@ header .logo a {
 	height: 12px;
 	background-repeat: no-repeat;
 	background-position: 0 0;
-	background-image: url("../images/logo.png");
+	background-image: url("../images/logo.jpg");
 }
 @media (-webkit-min-device-pixel-ratio:2), (min-resolution:192dpi) {
 	header .logo a {
